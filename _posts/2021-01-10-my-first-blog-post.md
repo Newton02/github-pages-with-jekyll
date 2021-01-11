@@ -1,0 +1,3 @@
+then I still looked for how to program without using this platform.
+Actually, I realize I can do better if I learn how to use it that 
+why I choose to spend my time in learning how to use Github.
