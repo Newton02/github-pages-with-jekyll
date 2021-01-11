@@ -1,5 +1,5 @@
 ---
-title: "2021-01-10"
+title: "2021-01-10-my-first-blog"
 date: 2021-01-11
 ---
 then I still looked for how to program without using this platform.
